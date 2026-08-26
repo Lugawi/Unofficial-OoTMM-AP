@@ -88,6 +88,6 @@ say which one and how you broke it.
 
 ## Credits
 
-OoTMM by Nax and contributors: https://github.com/OoTMM/OoTMM
+OoTMM: https://github.com/OoTMM/OoTMM
 
 Archipelago integration by LUGAWI. (discord: @drlugawi7001)
