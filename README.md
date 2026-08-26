@@ -90,4 +90,4 @@ say which one and how you broke it.
 
 OoTMM by Nax and contributors: https://github.com/OoTMM/OoTMM
 
-Archipelago integration by LUGAWI.
+Archipelago integration by LUGAWI. (discord: @drlugawi7001)
