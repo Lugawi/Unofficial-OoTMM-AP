@@ -1,4 +1,4 @@
-# OoTMM for Archipelago
+# UNOFFICIAL OoTMM for Archipelago
 
 Play OoTMM, which merges Ocarina of Time and Majora's Mask into one game, as
 an Archipelago multiworld. Roughly 3,500 checks depending on settings, and
